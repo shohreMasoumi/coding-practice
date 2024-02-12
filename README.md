@@ -1,5 +1,5 @@
 # Coding Practice
-Here are some coding projects and exercises on data structures and algorithms to keep mine and yours programming skills sharp!
+Here are some coding projects and exercises to keep mine and yours programming skills sharp!
 
 ## Resource Allocation
 Combinatorial optimization within constraints is a popular computer science challenge. It is a practical example of the knapsack problem, manifesting itself in scenarios such as budget allocation or inventory management within supply chains in real-world applications. 
