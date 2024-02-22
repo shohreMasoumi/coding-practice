@@ -2,15 +2,20 @@
 Here are some coding projects and exercises to keep mine and yours programming skills sharp!
 
 1. [Data Structure and Algorithms](#data-structure-and-algorithms)
-    1. [Resource Allocation](#resource-allocation)
-    2. [String Shuffle](#string-shuffle)
+    1. [Largest Elements](#largest-elements)
+    2. [Resource Allocation](#resource-allocation)
+    3. [Shuffling](#shuffling)
 2. [Machine Learning](#machine-learning)
     1. [Kaggle's Titanic Competition](#kaggle's-titanic-competition)
 <!-- 3. [Readings] (##readings)
     1. [Continuous Integration/Continuous Deployment (CI/CD)](#continuous-integration/continuous-deployment-(CI/CD)) -->
 
-
 ## Data Structures and Algorithms
+
+### Largest Elements
+
+TBD
+
 
 ### Resource Allocation
 
@@ -21,7 +26,9 @@ To tackle these kinds of problems, we often use methods like Greedy Algorithms a
 We will begin with simpler formulations and gradually work our way up to harder variations.
 
 
-<!-- ### String Shuffle -->
+### Shuffling
+
+Exploring shuffling algorithms: conventional, in-place, and finally Fisher-Yates for unbiased and efficient randomization.
 
 
 ## Machine Learning
@@ -37,6 +44,8 @@ I start with exploratory data analysis, followed by processing data, and feature
 <!-- ## Readings
 
 ### Continuous Integration/Continuous Deployment (CI/CD) -->
+
+
 
 
 
