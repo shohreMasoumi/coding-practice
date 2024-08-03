@@ -7,7 +7,7 @@ Here are some coding projects and exercises to keep mine and yours programming s
     3. [Shuffling](#shuffling)
     4. [Longest Consecutive Subsequence](#Longest-consecutive-subsequence)
 2. [Machine Learning](#machine-learning)
-    1. [Kaggle's Titanic Competition](#kaggle's-titanic-competition)
+    1. [Kaggle Titanic Competition](#kaggle-titanic-competition)
 3. [Distributed Systems](#distributed-systems)
     1. [Unique Id Generator](#unique-id-generator)
 <!-- 3. [Readings] (##readings)
@@ -36,7 +36,7 @@ This problem involves finding the length of the longest sequence of consecutive 
 
 ## Machine Learning
 
-### Kaggle's Titanic Competition
+### Kaggle Titanic Competition
 
 [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
 
