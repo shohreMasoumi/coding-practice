@@ -5,7 +5,8 @@ Here are some coding projects and exercises to keep mine and yours programming s
     1. [Largest Elements](#largest-elements)
     2. [Resource Allocation](#resource-allocation)
     3. [Shuffling](#shuffling)
-    4. [Longest Consecutive Subsequence](#Longest-consecutive-subsequence)
+    4. [Longest Consecutive Subsequence](#longest-consecutive-subsequence)
+    4. [Reverse String](#reverse-string)
 2. [Machine Learning](#machine-learning)
     1. [Kaggle Titanic Competition](#kaggle-titanic-competition)
 3. [Distributed Systems](#distributed-systems)
@@ -33,6 +34,10 @@ Exploring shuffling algorithms: conventional, in-place, and finally Fisher-Yates
 
 ### Longest Consecutive Subsequence
 This problem involves finding the length of the longest sequence of consecutive integers present in an unsorted list. The sequence must be formed using the elements of the list with or without rearranging them.
+
+### Reverse String
+
+A collection of problems that include various string manipulations: reversing an entire string, reversing the order of words in a string, and reversing the order of words while keeping punctuation marks in their original positions. Each function handles different aspects of string processing and arrangement.
 
 ## Machine Learning
 
