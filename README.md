@@ -11,6 +11,7 @@ Here are some coding projects and exercises to keep mine and yours programming s
     1. [Kaggle Titanic Competition](#kaggle-titanic-competition)
 3. [Distributed Systems](#distributed-systems)
     1. [Unique Id Generator](#unique-id-generator)
+ 4. [Presentation](#presentation)   
 <!-- 3. [Readings] (##readings)
     1. [Continuous Integration/Continuous Deployment (CI/CD)](#continuous-integration/continuous-deployment-(CI/CD)) -->
 
@@ -61,7 +62,9 @@ We study different aspects of distributed systems design and explore Python thre
 
 ### Continuous Integration/Continuous Deployment (CI/CD) -->
 
+## Presentation
 
+Behavioral interview questions often focus on how you've handled various situations in the past to predict how you'll handle similar situations in the future. 
 
 
 
