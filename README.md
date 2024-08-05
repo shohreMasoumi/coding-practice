@@ -7,6 +7,7 @@ Here are some coding projects and exercises to keep mine and yours programming s
     3. [Shuffling](#shuffling)
     4. [Longest Consecutive Subsequence](#longest-consecutive-subsequence)
     4. [Reverse String](#reverse-string)
+    5. [Sum Root to Leaf Numbers](#sum-root-to-leaf-numbers)
 2. [Machine Learning](#machine-learning)
     1. [Kaggle Titanic Competition](#kaggle-titanic-competition)
 3. [Distributed Systems](#distributed-systems)
@@ -40,6 +41,10 @@ This problem involves finding the length of the longest sequence of consecutive 
 
 A collection of problems that include various string manipulations: reversing an entire string, reversing the order of words in a string, and reversing the order of words while keeping punctuation marks in their original positions. Each function handles different aspects of string processing and arrangement.
 
+### Sum Root to Leaf Numbers
+
+Practicing traversing binary trees.
+
 ## Machine Learning
 
 ### Kaggle Titanic Competition
@@ -57,7 +62,6 @@ I start with exploratory data analysis, followed by processing data, and feature
 This problem involves designing a system that produces unique identifiers across multiple machines or instances. <br>
 We study different aspects of distributed systems design and explore Python threading techniques.
 
-
 <!-- ## Readings
 
 ### Continuous Integration/Continuous Deployment (CI/CD) -->
@@ -65,7 +69,3 @@ We study different aspects of distributed systems design and explore Python thre
 ## Presentation
 
 Behavioral interview questions often focus on how you've handled various situations in the past to predict how you'll handle similar situations in the future. 
-
-
-
-
