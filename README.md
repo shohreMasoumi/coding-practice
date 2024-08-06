@@ -8,6 +8,7 @@ Here are some coding projects and exercises to keep mine and yours programming s
     4. [Longest Consecutive Subsequence](#longest-consecutive-subsequence)
     4. [Reverse String](#reverse-string)
     5. [Sum Root to Leaf Numbers](#sum-root-to-leaf-numbers)
+    6. [Regular Expression Matching](#regular-expression-matching)
 2. [Machine Learning](#machine-learning)
     1. [Kaggle Titanic Competition](#kaggle-titanic-competition)
 3. [Distributed Systems](#distributed-systems)
@@ -44,6 +45,10 @@ A collection of problems that include various string manipulations: reversing an
 ### Sum Root to Leaf Numbers
 
 Practicing traversing binary trees.
+
+### Regular Expression Matching
+
+It's a great example of dynamic programming due to its overlapping subproblems and optimal substructure properties.
 
 ## Machine Learning
 
