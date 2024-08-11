@@ -68,10 +68,14 @@ I start with exploratory data analysis, followed by processing data, and feature
 
 ### Unique Id Generator
 
+<span style="background-color: #007bff; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">Parallel processing</span>
+
 This problem involves designing a system that produces unique identifiers across multiple machines or instances. <br>
 We study different aspects of distributed systems design and explore Python threading techniques.
 
 ### Notification System
+
+
 
 ## Knowledge
 
