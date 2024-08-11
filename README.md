@@ -73,7 +73,6 @@ We study different aspects of distributed systems design and explore Python thre
 
 ### Notification System
 
-
 ## Knowledge
 
 ### Continuous Integration/Continuous Deployment (CI/CD)
