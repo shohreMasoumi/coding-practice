@@ -76,3 +76,5 @@ We study different aspects of distributed systems design and explore Python thre
 ## Knowledge
 
 ### Continuous Integration/Continuous Deployment (CI/CD)
+
+Discussing Continuous Integration and its role in automating code integration and testing processes. Additionally, covering basic knowledge of working with Docker and its use in Continuous Deployment (CD) for seamless and efficient application delivery.
